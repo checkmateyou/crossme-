@@ -1,2 +1,2 @@
-# crossme-
-[详细指南](https://github.com/niu2x/crossme-/wiki)
+# crossme-计算器
+[使用指南](https://github.com/niu2x/crossme-/wiki)
